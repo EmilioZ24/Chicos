@@ -49,6 +49,12 @@ p{
 
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: scale-down;
+  }
+
 footer {
     background-color: #333;
     color: #fff;
