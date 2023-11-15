@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 
 header {
     background-color: #624A4A;
@@ -32,7 +35,7 @@ nav ul li a.active {
 }
 
 .p1{
-
+    font-family: 'Jacques Francois Shadow', serif;
 }
 
 .wrapper {
