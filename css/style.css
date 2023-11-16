@@ -27,8 +27,11 @@ nav ul li a.active {
     font-weight: bold;
 }
 
+
 #about {
-    padding: .5px;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
     border-style: solid ;
     border-color: #258C14;
    
@@ -47,10 +50,6 @@ nav ul li a.active {
   padding: 15px;
   text-align: center;
   border: 1px solid black;
-}
-
-p{
-
 }
 
 img {
